@@ -1,0 +1,38 @@
+.container{margin-bottom:100px;}
+.buy-now-button{
+    background-color:black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 25px;
+    cursor: pointer;
+}
+.Cart-p{
+    color: gray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 2px 2px rgb(241, 234, 234);
+    border-radius: 10px;}
+.last-botton{
+        margin: auto;
+        background-color:orange;
+        border-radius: 8px;
+        padding: 5px 50px;
+        cursor: pointer;
+    }
+.perfume{
+    margin-top:150px;
+}
+.perfume-body{
+    background-color: rgb(240, 232, 219);
+    box-shadow: 2px 2px 2px 2px gray;
+    padding: 15px;
+}
+.shoe{
+    margin-top: 50px;
+}
