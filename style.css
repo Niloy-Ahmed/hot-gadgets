@@ -42,3 +42,12 @@
 footer{
     text-align: center;
 }
+.About-us{
+    padding: 50px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+h4{
+    color:tomato
+}
